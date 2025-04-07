@@ -2,6 +2,7 @@
 Admin System made by ChatGPT
 
 #Installation
+
 Put this nexus folder in your garry's mod server's garrysmod/lua/autorun folder. The structure should be like this:
 
 
